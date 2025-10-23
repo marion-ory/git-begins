@@ -1,0 +1,4 @@
+git command #clone
+git add. #ajoutes des fichier
+git commit-m #ajouter un commentaire
+git push
