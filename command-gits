@@ -1,3 +1,4 @@
+”git switch-c <nom> #creer un nouveau fichier et y basculer
 git command #clone
 git add. #ajoutes des fichier
 git commit-m #ajouter un commentaire
